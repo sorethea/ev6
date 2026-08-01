@@ -1,0 +1,10 @@
+{
+    "agents": [
+        "junie"
+    ],
+    "cloud": false,
+    "guidelines": true,
+    "packages": [
+        "filament/filament"
+    ]
+}
