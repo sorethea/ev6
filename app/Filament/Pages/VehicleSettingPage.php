@@ -9,7 +9,7 @@ use VanOns\FilamentSettings\Filament\Pages\SettingsPage;
 
 class VehicleSettingPage extends SettingsPage
 {
-    protected static ?string $title = 'Vehicle Setting';
+    protected static ?string $title = 'My Vehicle';
     protected string $settingsClass = VehicleSetting::class;
 
     public function getFormSchema(): array
